@@ -114,13 +114,13 @@ div.sponsors div.wrap {
   padding-bottom: 0;
 }
 div.sponsors ul {
-  margin: 40px 0 0 0;
+  margin: 20px 0 0 0;
   overflow: hidden;
 }
 div.sponsors ul li {
   float: left;
   width: 26%;
-  margin: 0 11% 40px 0;
+  margin: 0 11% 20px 0;
 }
 div.sponsors ul li:nth-child(3n) {
   margin-right: 0;
@@ -133,7 +133,7 @@ div.sponsors ul li img {
   div.sponsors ul li {
     float: none;
     width: auto;
-    margin: 0 0 40px 0;
+    margin: 0 0 10px 0;
   }
   div.sponsors ul li img {
     max-width: 180px;
