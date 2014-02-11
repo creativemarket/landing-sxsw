@@ -84,6 +84,7 @@ div.when h2 span {
 
 @media screen and (max-width: 640px) {
   div.when h2 span {
+    display: inline-block;
     margin: 0 2px;
   }
 }
