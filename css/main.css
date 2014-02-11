@@ -76,10 +76,12 @@ div.wrap {
 div.when {
   background: #944928;
 }
-
 div.when h2 span {
   margin: 0 10px;
   color: #f78e3a;
+}
+div.when h2 a {
+  color: #ffdbad;
 }
 
 @media screen and (max-width: 640px) {
