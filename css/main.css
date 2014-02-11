@@ -213,6 +213,7 @@ p.hashtag {
   margin: 0 0 20px 0;
   font-size: 4em;
   font-weight: bold;
+  letter-spacing: -2px;
   color: #6b2f15;
 }
 
