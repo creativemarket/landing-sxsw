@@ -54,7 +54,7 @@ h2 {
 
 @media screen and (max-width: 640px) {
   h2 {
-    font-size: 2.8em;
+    font-size: 2.4em;
     line-height: 1;
   }
 }
@@ -96,6 +96,9 @@ div.details p a {
   font-weight: bold;
   text-decoration: underline;
   color: #944928;
+}
+div.details p a:hover {
+  opacity: .75;
 }
 
 /* sponsors */
