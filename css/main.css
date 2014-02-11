@@ -82,6 +82,12 @@ div.when h2 span {
   color: #f78e3a;
 }
 
+@media screen and (max-width: 640px) {
+  div.when h2 span {
+    margin: 0 2px;
+  }
+}
+
 /* details */
 
 div.details {
